@@ -13,8 +13,6 @@
         android:orientation="vertical"
         tools:context=".MainActivity">
 
-
-
         <androidx.cardview.widget.CardView
             android:id="@+id/mainTitleCard"
             android:layout_width="match_parent"
